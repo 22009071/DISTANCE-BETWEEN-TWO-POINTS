@@ -15,7 +15,7 @@ assign the values of two points
 ### Step 3: 
 
 Substitute the values in the distance formula  
-![eig](formula.jpg)
+![eig](formula.JPG)
 
 ### Step 4: 
 Print the values 
@@ -37,7 +37,7 @@ print("{:.2f}".format (distance))
 
 
 ### OUTPUT:
-![](./distance.png)
+![eig](Screenshot_20230102_055607.png)
 
 ### RESULT:
 Thus the distance between two points are successfully found
