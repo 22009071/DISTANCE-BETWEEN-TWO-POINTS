@@ -14,7 +14,8 @@ assign the values of two points
 
 ### Step 3: 
 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+Substitute the values in the distance formula  
+![eig](formula.jpg)
 
 ### Step 4: 
 Print the values 
